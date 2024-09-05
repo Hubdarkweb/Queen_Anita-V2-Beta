@@ -31,12 +31,12 @@
 
 ### SERVER 1 
  
-<a href="https://test-xgyz.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://express-pairing-code-1-e1kt.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### SERVER 2 
 ### GET SESSION ID HERE ( Replit) 
 
-<a href="https://replit.com/@Hubdarkweb/QueenAnita-Md-session-generator"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://express-pairing-code-1-e1kt.onrender.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 
